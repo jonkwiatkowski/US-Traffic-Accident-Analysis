@@ -1,2 +1,4 @@
 # This is main.py for the branching and merging demo
-a = 100
+# Kim's comment
+a = 222
+current_month = July
