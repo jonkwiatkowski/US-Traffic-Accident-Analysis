@@ -1,6 +1,6 @@
 #ignore original CSV
 US_Accidents_Dec21_updated.csv
-
+config.py
 # Remove DS_Store
 .DS_Store
 
