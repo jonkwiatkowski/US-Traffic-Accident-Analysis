@@ -66,7 +66,18 @@ Our project is to uncover patterns in traffic accidents across the US. We'll exa
 - Only 0.006% of accidents happened at a roundabout, 2% at a stopsign, 7.2% at a crosswalk, and 7.4% at a traffic signal.
 - Using a Chi-squared hypothesis test, we were able to determine that fewer accidents occur near traffic obstruction, p-value near 0.
 - The number of accidents vs visibility yielded a positive relationship. We have $r^2 \approx 0.5940$ which corresponds to a moderate fit.
-    
+
+## References
+ - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, arXiv preprint arXiv:1906.05409 (2019).
+ - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. “Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights.” In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
+ - https://seaborn.pydata.org/index.html
+ - https://libraries.io/pypi/gmaps
+ - https://stackoverflow.com/questions/12897374/get-unique-values-from-a-list-in-python
+ - https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+ - Dom LaBella
+ - Nick Buller
+ - Chris Howard
+ - Colin Barquist
 
 ## Repository Files
 
